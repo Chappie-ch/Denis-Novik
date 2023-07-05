@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.intro {
+    padding: 0 30px;
+    width: 100%;
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.promo {
+    background: url(../img/bg/BSPP2266.jpg);
+    padding: 276px 252px 4095px 253px;
+    
+}
