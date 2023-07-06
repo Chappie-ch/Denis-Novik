@@ -7,12 +7,88 @@
 .intro {
     padding: 0 30px;
     width: 100%;
-    max-width: 1140px;
+    max-width: 1445px;
     margin: 0 auto;
 }
 
 .promo {
     background: url(../img/bg/BSPP2266.jpg);
-    padding: 276px 252px 4095px 253px;
+
     
+}
+
+.inform {
+    padding: 88px 0 87px 0;
+    background: #F6F6F6;
+}
+
+.inform .inform_text {
+    color: var(--black, #070707);
+    text-align: center;
+    font-family: Gilroy-Medium;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.inform .title {
+    color: var(--black, #070707);
+    text-align: center;
+    font-family: Gilroy-Bold;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.skills_container .skills_item .skills_text  {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 115px;
+    height: 115px;
+}
+
+.portfolio {
+    padding: 88px 0 87px 0;
+    background: #F6F6F6;
+    text-align: center;
+}
+
+.dlack_btn {
+    display: block;
+    margin: 0 auto;
+    margin-top: 72px;
+    max-width: 313px;
+    width: 100%;
+    height: 72px;
+    background-image: url(../icons/chip.png);
+    box-shadow: inset 0 0 0 rgba(0, 0, 0, 0.18);
+    border: none;
+    font-family: 'Roboto', sans-serif;
+    font-size: 21px;
+    line-height: 24px;
+    font-weight: 400;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    text-shadow: -1px -1px 0px rgba(0, 0, 0, 0.22);
+    cursor: pointer;
+    outline: none;
+}
+
+.contact_container  {
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 115px;
+    height: 115px;
+}
+
+.title {
+    text-align: center;
 }
